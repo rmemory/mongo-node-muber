@@ -1,1 +1,1 @@
-npm install --save mongoose express mocha
+npm install --save mongoose express mocha supertest nodemon
